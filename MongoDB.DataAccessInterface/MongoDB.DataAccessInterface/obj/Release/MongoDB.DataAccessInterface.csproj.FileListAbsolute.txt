@@ -1,0 +1,11 @@
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.DataAccessInterface.dll
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.DataAccessInterface.pdb
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.Bson.dll
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.Driver.dll
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.Bson.pdb
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.Bson.xml
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.Driver.pdb
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\bin\Release\MongoDB.Driver.xml
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\obj\Release\MongoDB.DataAccessInterface.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\obj\Release\MongoDB.DataAccessInterface.dll
+C:\Users\Jeremiah G. Gatong\Documents\Visual Studio 2012\Projects\MongoDB.DataAccessInterface\MongoDB.DataAccessInterface\obj\Release\MongoDB.DataAccessInterface.pdb
